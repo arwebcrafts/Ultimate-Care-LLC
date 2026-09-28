@@ -9,7 +9,8 @@ Official website for **Ultimate Home Care LLC**, an IDD/APDD Waiver Home and Pri
 - **Business Name:** Ultimate Home Care (IDD/APDD Waiver Group Home)
 - **Legal Entity:** Ultimate Home Care LLC
 - **Location / Address:** 9715 New Haven Loop, Anchorage, Alaska 99507
-- **Direct Phone Line:** (907) 947-4918
+- **Direct Phone Line (Main):** (907) 947-4918
+- **Home Line / Fax:** (907) 339-1553
 - **Email Address:** susanmccrae.ebo@gmail.com
 - **Services:** Meal Preparation (3+ Daily Meals & Snacks), Dressing & Personal Hygiene, Household Chores & Laundry, Scheduling & Appointments, Social Skill Building, Personal Care & ADLs, Mind-Stimulating Activities, Community Engagement & Outings, Dedicated Medical Transportation.
 - **Waivers:** State of Alaska IDD/APDD Waiver & Private Pay Accepted

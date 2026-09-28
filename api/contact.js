@@ -28,7 +28,7 @@ export default async function handler(req, res) {
     // 2. Extract and sanitize inquiry fields
     const fullName = (data['Full Name'] || data.name || 'Website Visitor').trim();
     const email = (data['Email Address'] || data.email || '').trim();
-    const phone = (data['Phone Number'] || data.phone || '+1 (907) 339-1553').trim();
+    const phone = (data['Phone Number'] || data.phone || '+1 (907) 947-4918').trim();
     const relationship = (data['Relationship'] || data.relationship || 'Guardian / Family').trim();
     const service = (data['Inquiry Service Focus'] || data.service || 'Placement Inquiry').trim();
     const tourDate = (data['Preferred Tour Date'] || data.date || 'Flexible / To Be Scheduled').trim();
@@ -61,7 +61,7 @@ export default async function handler(req, res) {
       '_template': 'table',
       '_captcha': 'false',
       '_replyto': email || 'no-reply@serene-meadows-living.vercel.app',
-      '_autoresponse': 'Thank you for reaching out to Ultimate Home Care LLC. Susan McCrae has received your placement inquiry and will contact you within 24 hours. For immediate assistance, please call +1 (907) 339-1553.'
+      '_autoresponse': 'Thank you for reaching out to Ultimate Home Care LLC. Susan McCrae has received your placement inquiry and will contact you within 24 hours. For immediate assistance, please call +1 (907) 947-4918.'
     });
 
     // 5. Official Client Destination Relay

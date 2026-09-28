@@ -307,7 +307,7 @@ document.addEventListener('DOMContentLoaded', () => {
       
       const name = (document.getElementById('form-name')?.value || contactForm.querySelector('input[name="Full Name"]')?.value || 'Valued Guardian').trim();
       const relationship = (document.getElementById('form-relationship')?.value || contactForm.querySelector('input[name="Relationship"]')?.value || 'Guardian / Family').trim();
-      const phone = (document.getElementById('form-phone')?.value || contactForm.querySelector('input[name="Phone Number"]')?.value || '+1 (907) 339-1553').trim();
+      const phone = (document.getElementById('form-phone')?.value || contactForm.querySelector('input[name="Phone Number"]')?.value || '+1 (907) 947-4918').trim();
       const email = (document.getElementById('form-email')?.value || contactForm.querySelector('input[name="Email Address"]')?.value || '').trim();
       const service = document.getElementById('service-select')?.value || 'Placement Inquiry';
       const tourDate = (document.getElementById('form-date')?.value || contactForm.querySelector('input[name="Preferred Tour Date"]')?.value || 'Flexible / To Be Scheduled').trim();

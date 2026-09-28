@@ -1,0 +1,20 @@
+{
+  "name": "ultimate-home-care",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Ultimate Home Care - IDD/APDD Waiver Group Home in Anchorage, Alaska",
+  "scripts": {
+    "start": "npx serve -l 3000",
+    "dev": "npx serve -l 3000"
+  },
+  "keywords": [
+    "group-home",
+    "idd-waiver",
+    "apdd-waiver",
+    "anchorage",
+    "alaska",
+    "ultimate-home-care"
+  ],
+  "author": "Ultimate Home Care LLC",
+  "license": "ISC"
+}
